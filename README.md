@@ -1,5 +1,9 @@
 # Alephium DEX Analytics & Discovery Layer
 
+## Demo
+view demo screenshots here:
+https://github.com/macjayz/alephium/tree/master/demo
+
 ## Overview
 With Alephium entering Phase 2 and preparing for a native DEX launch, there is a clear need for foundational analytics and discovery infrastructure to support users, builders, and liquidity providers from day one.
 This project proposes building a DEX-focused analytics and discovery layer for Alephium — providing transparency, discoverability, and actionable on-chain insights as the ecosystem scales.
